@@ -70,7 +70,7 @@ The original authors of this fabricated example software project are:
 
 ## Acknowledgements
 
-## Original Source Code
+### Original Source Code
 
 The original repository that this is based on can be found at https://github.com/carpentries-incubator/bbrs-software-project.
 
